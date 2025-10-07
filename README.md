@@ -1,2 +1,2 @@
 # hello-world
-simple "Hello World" public tutorial
+simple "Hello World" public tutorials etc.
